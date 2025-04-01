@@ -37,11 +37,18 @@ When a track is played, the function tag _#minecraft:rizz/play_music_ is called 
 
 ## Crediting
 This pack uses the **GNU General Public Use License**, included with the pack. In summary:
+
     Anyone is freely allowed to use these datapacks in any project. (provided you credit me for them.)
+    
     Anyone is freely allowed to make modifications to these datapacks.
+    
     You are allowed to redistribute modified versions, however, I am not responsible for supporting those versions.
+    
     If you redistribute a modified version, it is an "open source" project, just like RIZZ.
+    
     If you redistribute a modified version, you have to credit me.
+    
     You cannot hold me liable for any damages done by using these datapacks.
+    
 Crediting can be done at the discretion of the mapmaker, but should be easy to view. Simply crediting "Sequex" as the author or linking to this repository is good enough.
 
