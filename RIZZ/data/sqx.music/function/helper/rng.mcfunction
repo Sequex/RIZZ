@@ -1,0 +1,1 @@
+$execute store result score $rng music.var run random value $(min)..$(max)

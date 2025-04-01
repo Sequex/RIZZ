@@ -1,0 +1,4 @@
+{
+    "criteria": {"init": {"trigger": "tick"}},
+    "rewards": {"function": "sqx.music:player_init"}
+}

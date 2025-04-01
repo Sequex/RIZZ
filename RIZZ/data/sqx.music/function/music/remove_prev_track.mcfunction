@@ -1,0 +1,1 @@
+$data remove storage sqx:music $(id).pool.curr[$(pool_remove)]
