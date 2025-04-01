@@ -1,6 +1,6 @@
 ## What is RIZZ?
 
-RIZZ (Rhythmically Immersive Zonzal Zones) is a modifiable template where mapmakers can implement music into maps with ease of customizeability, making use of a macro-based storage system for reading and loading 'pools.'
+RIZZ (Rhythmically Immersive Zonal Zones) is a modifiable template where mapmakers can implement music into maps with ease of customizeability, making use of a macro-based storage system for reading and loading 'pools.'
 Some manual setup is required to use RIZZ to specify:
 - Music Pools (Playlists)
 - Music Tracks
